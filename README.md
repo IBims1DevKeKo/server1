@@ -1,2 +1,3 @@
 # server1
-Das wird ein ganzer Java-Server
+# Änderung erlaubt
+# Verkaufen VERBOTEN!!!
